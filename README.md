@@ -7,7 +7,7 @@ In this project we will be seeing how we can form an ASCII art version of an ima
 ## How to run the project
 * you can use git clone command to download the contents of the project.
 
-$ git clone https://github.com/Jai0520/Image_to_sketch
+$ git clone [https://github.com/Jai0520/Image_to_sketch](https://github.com/Jai0520/Image_to_sketch)
 
 * Once you have the folder and the files in your system open the Image_to_sketch.py file in your editor and run the python file.
 
