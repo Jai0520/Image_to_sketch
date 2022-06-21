@@ -29,4 +29,4 @@ $ git clone https://github.com/Jai0520/Image_to_sketch
 
 ## Resources
 * [Drawing an Ascii sketch](https://blog.waffles.space/2017/03/01/ascii-sketch/#fnref:2)
-* * [AScii Art](https://en.wikipedia.org/wiki/ASCII_art#Types_and_styles)
+* [AScii Art](https://en.wikipedia.org/wiki/ASCII_art#Types_and_styles)
