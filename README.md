@@ -30,3 +30,9 @@ $ git clone [https://github.com/Jai0520/Image_to_sketch](https://github.com/Jai0
 ## Resources
 * [Drawing an Ascii sketch](https://blog.waffles.space/2017/03/01/ascii-sketch/#fnref:2)
 * [AScii Art](https://en.wikipedia.org/wiki/ASCII_art#Types_and_styles)
+
+
+
+
+https://user-images.githubusercontent.com/90614173/174866168-fb295010-28ff-4b46-9d92-3b594603f8e3.mp4
+
